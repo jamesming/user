@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>The Avengers</name>
+	<gid>UA-32580165-2</gid>
+	<base_url>http://marvel.com/avengers_movie/</base_url>
+	<base_url2></base_url2>
+	<tab>standing</tab>
+	<target>http://www.capitalonecup.com/standings</target>
+	<custom_html><![CDATA[<div>
+	<img src='http://rp.reyinteractive.com/user/178/deploy/userassets/preview/custom.png?random=1339699804321'/>
+</div>
+<div>test
+</div>]]></custom_html>
+	<abouttitle></abouttitle>
+	<about><![CDATA[Marvel's The Avengers[4] (classified under the name Marvel Avengers Assemble in the UK and Ireland[1][5]) is a 2012 American superhero film produced by Marvel Studios and distributed by Walt Disney Pictures1, based on the Marvel Comics superhero team of the same name. It is the sixth installment in the Marvel Cinematic Universe. The film is scripted and directed by Joss Whedon and features an ensemble cast that includes Robert Downey, Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård and Samuel L. Jackson. In The Avengers, Nick Fury, director of the peacekeeping organization S.H.I.E.L.D., recruits Iron Man, Captain America, the Hulk and Thor to form a team that must stop Thor's adoptive brother Loki from enslaving the human race.]]></about>
+	<hashtag>grape</hashtag>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<customurl>custom.png</customurl>
+	<tab_iconurl>tab_icon.png</tab_iconurl>
+	<twitter>@Avengers</twitter>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>www.facebook.com/avengers</facebook>
+	<facebookID>126757470715601</facebookID>
+	<channelid>11327865</channelid>
+	<ustreamid>derekirby</ustreamid>
+	<elementsequence>
+		<elem>bio</elem>
+		<elem>connect</elem>
+		<elem>events</elem>
+		<elem>merch</elem>
+		<elem>theaters</elem>
+		<elem>custom</elem>
+		<elem>photos</elem>
+		<elem>videos</elem>		
+		<elem>news</elem>		
+	</elementsequence>
+	<musiclist>
+		<musicid>150</musicid>
+	</musiclist>
+	<albumlist>
+		<album></album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>

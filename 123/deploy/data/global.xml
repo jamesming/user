@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>49ers</name>
+	<abouttitle></abouttitle>
+	<about><![CDATA[The San Francisco 49ers (often referred to as the Niners) are a professional American football team based in San Francisco, California. They are currently members of the West Division of the National Football Conference (NFC) in the National Football League (NFL). The 49ers were established in 1946 as a charter member of the All-America Football Conference (AAFC) and joined the NFL in 1950 after the two leagues merged. The team was the first NFL franchise to win five Super Bowls, and is second only to the Pittsburgh Steelers in total Super Bowl wins (6), tied with the Dallas Cowboys at 5. The team's five league (or currently, Conference) titles (which include the pre-NFL and pre-Super Bowl periods) place them in a four-way tie for fifth all-time, behind the Green Bay Packers (13), the Chicago Bears (9), the New York Giants (7), and the Steelers (6). The 49ers remain the only team in NFL history to play in more than one Super Bowl without a single loss. The New York Jets, Baltimore Ravens and New Orleans Saints are also undefeated in Super Bowls, but have only played in one game each.
+
+The 49ers teams of the 1980s and early 1990s were a great dynasty given their five Super Bowl triumphs in that span, including four in the 1980s. The Niners won 10 or more games for 16 straight seasons.[3] Particularly notable seasons are the 1984 and 1989 teams. Three-time Super Bowl MVP Joe Montana, perennial Pro Bowler Ronnie Lott, all-time highest career quarterback rating holder Steve Young, and career touchdown leader Jerry Rice played for the 49ers during this period.[citation needed] Additionally, some of the most memorable plays (including "The Catch") and games (such as Super Bowl XXIII) were played by this team.
+The name "49ers" comes from the name given to the gold prospectors who arrived in Northern California around 1849 during the California Gold Rush. The name was suggested to reflect the voyagers who had rushed the West for gold. It is the only name the team has ever been affiliated with and San Francisco is the only city in which it has resided.[4]
+
+The team is the oldest major professional sports team in California. Major League Baseball would not come for a few more years when the New York Giants and Brooklyn Dodgers would move to San Francisco and Los Angeles, respectively. The Philadelphia Warriors and Minneapolis Lakers would move to California in the sixties, and the Oakland Seals and Los Angeles Kings would become the first NHL teams in the state in 1967. The Cleveland Rams arrived in Los Angeles in 1946. The 49ers and Los Angeles Rams were cross-state rivals until 1994, when the present St. Louis Rams left Southern California .]]></about>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<twitter>49ers</twitter>
+	<songkickID>538795</songkickID>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>http://www.facebook.com/SANFRANCISCO49ERS</facebook>
+	<facebookID>112852666874</facebookID>
+	<channelid></channelid>
+	<elementsequence>
+		<elem>videos</elem>
+		<elem>photos</elem>
+		<elem>music</elem>
+		<elem>events</elem>
+		<elem>connect</elem>
+		<elem>bio</elem>
+		<elem>merch</elem>
+		<elem>theaters</elem>
+	</elementsequence>
+	<musiclist>
+		<musicid>107</musicid>
+		<musicid>105</musicid>
+		<musicid>106</musicid>
+		<musicid>108</musicid>
+	</musiclist>
+	<albumlist>
+		<album>Others</album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>

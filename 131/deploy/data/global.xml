@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>vevo</name>
+	<abouttitle>vevo</abouttitle>
+	<about><![CDATA[Florence and the Machine (stylised as Florence + the Machine)[1] are an English indie pop band, consisting of lead singer Florence Welch and a collaboration of other artists who provide backing music. Florence and the Machine's sound has been described as a combination of various genres, including rock and soul.[2][3] The band's music received praise across the music media, especially from the BBC, before they gained mainstream success. Specifically, the BBC played a large part in their rise to prominence by promoting Florence and the Machine as part of BBC Introducing.
+The band's debut album, Lungs, was released on 6 July 2009, and held the number-two position for its first five weeks on the UK Albums Chart.[4] On 17 January 2010, the album reached the top position, after being on the chart for twenty-eight consecutive weeks.[5] As of October 2010, the album had been in the top forty in the United Kingdom for sixty-five consecutive weeks, making it one of the best-selling albums of 2009 and 2010.
+
+Lungs won the MasterCard British Album award at the 2010 BRIT Awards. At the 53rd Grammy Awards, Florence and the Machine were nominated for Best New Artist. Additionally, the band performed at the 2010 MTV Video Music Awards, and the 2010 Nobel Peace Prize Concert.
+
+The group's second studio album, Ceremonials, released in October 2011, debuted at number one in the UK and number six in the US.[6][7]]]></about>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<twitter>vevo</twitter>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>http://www.facebook.com/vevo</facebook>
+	<facebookID>79544810932</facebookID>
+	<channelid>9704988</channelid>
+	<elementsequence>
+		<elem>photos</elem>
+		<elem>videos</elem>
+		<elem>connect</elem>
+		<elem>merch</elem>
+		<elem>music</elem>
+		<elem>bio</elem>
+	</elementsequence>
+	<musiclist>
+		<musicid>133</musicid>
+		<musicid>131</musicid>
+		<musicid>132</musicid>
+	</musiclist>
+	<albumlist>
+		<album></album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>Cartoon Network</name>
+	<abouttitle>The Amazing World of Gumball</abouttitle>
+	<about><![CDATA[The Amazing World of Gumball (sometimes referred to simply as Gumball) is a British/American animated television series created by Ben Bocquelet. It first aired on May 2, 2011 in the United Kingdom as a sneak preview and officially premiered on September 5, 2011. In the United States, a sneak peek aired on May 3, 2011 and premiered in full on May 9, 2011. It is rated TV-Y7-FV.
+
+When Cartoon Network Development Studio Europe was created in 2007, Ben Bocquelet was hired in order to help people pitch their projects to the network. However, when the studio decided to have its employees all pitch their own ideas,[1] he decided to take some of the rejected characters he had created for commercials and put them all in one series, with a school setting.[2] Daniel Lennard, the Vice President of Original Series and Development at Turner Broadcasting UK,[3] liked the idea and the series was ultimately greenlit. There were twenty half-hours worth of episodes written for the first season, but only eighteen were actually created.[4] A second season was announced on March 17, 2011 and it will consist of an additional twenty half-hours worth of episodes, bringing the total to thirty-eight.[5]]]></about>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<twitter>cartoonnetwork</twitter>
+	<songkickID>382622</songkickID>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>http://www.facebook.com/CartoonNetwork</facebook>
+	<facebookID>84917688371</facebookID>
+	<channelid>9977513</channelid>
+	<elementsequence>
+		<elem>videos</elem>
+		<elem>photos</elem>
+		<elem>music</elem>
+		<elem>events</elem>
+		<elem>connect</elem>
+		<elem>bio</elem>
+		<elem>merch</elem>
+		<elem>theaters</elem>
+	</elementsequence>
+	<musiclist>
+		<musicid>130</musicid>
+		<musicid>127</musicid>
+		<musicid>129</musicid>
+		<musicid>128</musicid>
+	</musiclist>
+	<albumlist>
+		<album></album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>

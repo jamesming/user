@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>Capital One Cup</name>
+	<gid>UA-32580165-2</gid>
+	<base_url>http://www.capitalonecup.com/</base_url>
+	<base_url2>http://cnn.com</base_url2>
+	<tab>STANDINGS</tab>
+	<target>http://www.capitalonecup.com/standings</target>
+	<custom_html><![CDATA[<a href="http://www.capitalonecup.com/standings" title="Standings" target="_blank"><img src="http://rp.reyinteractive.com/user/175/deploy/userassets/preview/custom.png?random=1339537156018"></a>]]></custom_html>
+	<abouttitle>Capital One Cup</abouttitle>
+	<about><![CDATA[The Capital One Cup is awarded annually to each of the best men's and women's Division I college athletics programs in the country. Points toward the Capital One Cup are earned and tracked throughout the year based on final standings of NCAA Championships and final official coaches' polls. One winning men's and one winning women's program will be crowned after the completion of the final NCAA spring championships. Capital One will award a combined $400,000 in student-athlete scholarships and the Capital One Cup trophy to the winning schools at the ESPY awards in July.]]></about>
+	<hashtag>CAPITALONE ESPYS ARE COMMING VERY SOON</hashtag>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<customurl>custom.png</customurl>
+	<tab_iconurl>tab_icon.png</tab_iconurl>
+	<twitter>@CapitalOneCup</twitter>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>https://www.facebook.com/CapitalOneCup</facebook>
+	<facebookID>121201734603042</facebookID>
+	<channelid></channelid>
+	<ustreamid></ustreamid>
+	<elementsequence>
+		<elem>custom</elem>
+		<elem>bio</elem>
+		<elem>connect</elem>
+		<elem>videos</elem>
+	</elementsequence>
+	<albumlist>
+		<album></album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>

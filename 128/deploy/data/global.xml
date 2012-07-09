@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>Prius</name>
+	<abouttitle>Prius</abouttitle>
+	<about><![CDATA[The Toyota Prius ( /ˈpriːəs/; Toyota's declared plural: Prii, /ˈpriːaɪ/) is a full hybrid electric mid-size hatchback, formerly a compact sedan developed and manufactured by the Toyota Motor Corporation. The EPA and California Air Resources Board (CARB) rate the Prius as among the cleanest vehicles sold in the United States based on smog-forming emissions.[1]
+
+The Prius first went on sale in Japan in 1997, making it the first mass-produced hybrid vehicle. It was subsequently introduced worldwide in 2001. The Prius is sold in more than 70 countries and regions, with its largest markets being those of Japan and North America.[2] In May 2008, global cumulative Prius sales reached the milestone 1 million vehicle mark,[3] and in September 2010, the Prius reached worldwide cumulative sales of 2.0 million units.[2] The U.S. is the largest market, with 1 million Priuses sold by early April 2011,[4] and Japan reached the 1 million mark in August 2011.[5] Since its launch in 2009, the third-generation model has sold more than 1 million units worldwide by September 2011.[6]]]></about>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<twitter>3genprius</twitter>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>http://www.facebook.com/prius</facebook>
+	<facebookID>92381987248</facebookID>
+	<channelid>9977513</channelid>
+	<elementsequence>
+		<elem>videos</elem>
+		<elem>events</elem>
+		<elem>merch</elem>
+		<elem>photos</elem>
+		<elem>connect</elem>
+		<elem>bio</elem>
+	</elementsequence>
+	<albumlist>
+		<album></album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>

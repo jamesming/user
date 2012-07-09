@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><events><item>
+	<id>112</id>
+	<userid>129</userid>
+	<eventname><![CDATA[Battleship - The Movie]]></eventname>
+	<imageurl><![CDATA[http://www.fandango.com/battleship_130096/movieoverview?date=5/17/2012]]></imageurl>
+	<datetime><![CDATA[2012-04-27 12:01:00]]></datetime>
+	<location><![CDATA[AMC Universal Citywalk Stadium 19]]></location>
+	<zipcode><![CDATA[91608]]></zipcode>
+	<lat></lat>
+	<long></long>
+	<eventinfo><![CDATA[Milton Bradley's strategic board game gets a sci-fi facelift with this Universal Pictures production from director Peter Berg. The action will pit a small fleet of naval ships against an alien force intent on enriching Earth's valuable assets to ensure their survival. Taylor Kitsch (Wolverine) and True Blood's Alexander Skarsgard star alongside Liam Neeson, Rihanna, and Brooklyn Decker.]]></eventinfo>
+	<buylink><![CDATA[https://www.fandango.com/transaction/ticketing/redvines/ticketboxoffice.aspx?row_count=0&date=5%2f17%2f2012&mid=130096&tid=AAAWX]]></buylink>
+	<date><![CDATA[2012-04-27]]></date>
+	<time><![CDATA[12:01:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>62</id>
+	<userid>129</userid>
+	<eventname><![CDATA[Battleship Playoffs]]></eventname>
+	<imageurl><![CDATA[http://www.facebook.com/Battleship?sk=app_252719784788208]]></imageurl>
+	<datetime><![CDATA[2012-04-30 00:00:00]]></datetime>
+	<location><![CDATA[Dallas]]></location>
+	<zipcode><![CDATA[75201]]></zipcode>
+	<lat></lat>
+	<long></long>
+	<eventinfo><![CDATA[Come play if you are good! Signup through Facebook]]></eventinfo>
+	<buylink><![CDATA[http://www.facebook.com/Battleship?sk=app_252719784788208]]></buylink>
+	<date><![CDATA[2012-04-30]]></date>
+	<time><![CDATA[00:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>61</id>
+	<userid>129</userid>
+	<eventname><![CDATA[Battleship Playoffs]]></eventname>
+	<imageurl><![CDATA[http://www.facebook.com/Battleship?sk=app_252719784788208]]></imageurl>
+	<datetime><![CDATA[2012-03-31 00:00:00]]></datetime>
+	<location><![CDATA[NYC]]></location>
+	<zipcode><![CDATA[10001]]></zipcode>
+	<lat></lat>
+	<long></long>
+	<eventinfo><![CDATA[Come play if you are good! Signup through Facebook]]></eventinfo>
+	<buylink><![CDATA[http://www.facebook.com/Battleship?sk=app_252719784788208]]></buylink>
+	<date><![CDATA[2012-03-31]]></date>
+	<time><![CDATA[00:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>60</id>
+	<userid>129</userid>
+	<eventname><![CDATA[Battleship Playoffs]]></eventname>
+	<imageurl><![CDATA[http://www.facebook.com/Battleship?sk=app_252719784788208]]></imageurl>
+	<datetime><![CDATA[2012-02-29 00:00:00]]></datetime>
+	<location><![CDATA[Beverly Hills]]></location>
+	<zipcode><![CDATA[90210]]></zipcode>
+	<lat></lat>
+	<long></long>
+	<eventinfo><![CDATA[Come play if you are good! Signup through Facebook]]></eventinfo>
+	<buylink><![CDATA[http://www.facebook.com/Battleship?sk=app_252719784788208]]></buylink>
+	<date><![CDATA[2012-02-29]]></date>
+	<time><![CDATA[00:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>59</id>
+	<userid>129</userid>
+	<eventname><![CDATA[Battleship Playoffs]]></eventname>
+	<imageurl><![CDATA[http://www.facebook.com/Battleship?sk=app_252719784788208]]></imageurl>
+	<datetime><![CDATA[2012-01-31 01:00:00]]></datetime>
+	<location><![CDATA[Scottsdale]]></location>
+	<zipcode><![CDATA[85255]]></zipcode>
+	<lat></lat>
+	<long></long>
+	<eventinfo><![CDATA[Come play if you are good! Signup through Facebook]]></eventinfo>
+	<buylink><![CDATA[http://www.facebook.com/Battleship?sk=app_252719784788208]]></buylink>
+	<date><![CDATA[2012-01-31]]></date>
+	<time><![CDATA[01:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+</events>

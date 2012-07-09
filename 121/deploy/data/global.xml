@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset>
+<global>
+	<name></name>
+	<abouttitle></abouttitle>
+	<about></about>
+	<logourl></logourl>
+	<avatarurl></avatarurl>
+	<homescreenurl></homescreenurl>
+	<ticketmasterid></ticketmasterid>
+	<twitter></twitter>
+	<facebook></facebook>
+	<channelid></channelid>
+	<elementsequence>
+		<elem>music</elem>
+		<elem>videos</elem>
+		<elem>connect</elem>
+		<elem>photos</elem>
+		<elem>bio</elem>
+	</elementsequence>
+	<musiclist></musiclist>
+	<albumlist></albumlist>
+	<vidcategorylist></vidcategorylist>
+</global>
+</dataset>

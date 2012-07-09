@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>battleship</name>
+	<gid>UA-32580165-4</gid>
+	<base_url>http://www.battleshipmovie.com/</base_url>
+	<base_url2>http://www.battleshipmovie.com/</base_url2>
+	<tab></tab>
+	<target></target>
+	<custom_html><![CDATA[]]></custom_html>
+	<abouttitle>Battleship</abouttitle>
+	<about><![CDATA[Battleship is an upcoming 2012 science fiction naval war film based on the game of the same name. The film is being directed by Peter Berg and will be released by Universal Pictures. The film stars Taylor Kitsch, Alexander Skarsgård, Brooklyn Decker, Rihanna and Liam Neeson.
+The film was originally planned to be released in 2011, but was rescheduled to May 18, 2012.
+
+In the Hawaiian Islands, an international naval fleet at Pearl Harbor engage in a very dynamic and intense battle against an alien race known as "The Regents". The aliens come to planet Earth, on a mission to build a power source in the ocean. Upon their visit, they come in contact with the navy fleet. The film is also purported to show both sides of the story, from the aliens' perspective, as well as the humans' so the audience knows exactly where the opponent's ships are.
+
+According to the trailers its clear that the aliens are highly advanced. Their battleships are capable of sailing, deep diving, and also flying. They use high ultrasonic weapons to neutralize their potential enemies. They also use robotic weapons to destroy the targets and also an electromagnetic shield for protection (similar to the alien race in Independence Day).]]></about>
+	<hashtag></hashtag>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<customurl>custom.png</customurl>
+	<tab_iconurl>tab_icon.png</tab_iconurl>
+	<twitter>battleshipmovie</twitter>
+	<songkickID>145814</songkickID>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>http://www.facebook.com/Battleship</facebook>
+	<facebookID>116119711759494</facebookID>
+	<channelid>9704988</channelid>
+	<ustreamid>bzkicks</ustreamid>
+	<elementsequence>
+		<elem>videos</elem>
+		<elem>photos</elem>
+		<elem>events</elem>
+		<elem>connect</elem>
+		<elem>merch</elem>
+		<elem>bio</elem>
+	</elementsequence>
+	<musiclist>
+		<musicid>151</musicid>
+	</musiclist>
+	<albumlist>
+		<album></album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>

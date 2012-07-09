@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?><events><item>
+	<id>40</id>
+	<userid>123</userid>
+	<eventname><![CDATA[vs. Pittsburgh Steelers]]></eventname>
+	<imageurl><![CDATA[http://www.ticketmaster.com/event/1C0046A6D3CE7EFC?artistid=806015&majorcatid=10004&minorcatid=8]]></imageurl>
+	<datetime><![CDATA[2011-11-1905:00:00]]></datetime>
+	<location><![CDATA[Candlestick Park ]]></location>
+	<zipcode><![CDATA[85255]]></zipcode>
+	<eventinfo><![CDATA[Candlestick Park 
+San Francisco, CA
+Mon, Dec 19, 2011 05:30 PM]]></eventinfo>
+	<buylink><![CDATA[http://www.ticketmaster.com/event/1C0046A6D3CE7EFC?artistid=806015&majorcatid=10004&minorcatid=8]]></buylink>
+	<date><![CDATA[2011-11-19]]></date>
+	<time><![CDATA[05:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>39</id>
+	<userid>123</userid>
+	<eventname><![CDATA[vs. St Louis Rams]]></eventname>
+	<imageurl><![CDATA[http://www.ticketmaster.com/event/1C0046A6D3CA7EFA?artistid=806015&majorcatid=10004&minorcatid=8]]></imageurl>
+	<datetime><![CDATA[2011-12-0401:00:00]]></datetime>
+	<location><![CDATA[Candlestick Park ]]></location>
+	<zipcode><![CDATA[85255]]></zipcode>
+	<eventinfo><![CDATA[Candlestick Park 
+San Francisco, CA
+Sun, Dec 4, 2011 01:15 PM]]></eventinfo>
+	<buylink><![CDATA[http://www.ticketmaster.com/event/1C0046A6D3CA7EFA?artistid=806015&majorcatid=10004&minorcatid=8]]></buylink>
+	<date><![CDATA[2011-12-04]]></date>
+	<time><![CDATA[01:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>38</id>
+	<userid>123</userid>
+	<eventname><![CDATA[vs Arizona Cardinals]]></eventname>
+	<imageurl><![CDATA[http://www.ticketmaster.com/event/1C0046A6D3C67EF9?artistid=806015&majorcatid=10004&minorcatid=8]]></imageurl>
+	<datetime><![CDATA[2011-11-2001:00:00]]></datetime>
+	<location><![CDATA[Candlestick Park  ]]></location>
+	<zipcode><![CDATA[8522]]></zipcode>
+	<eventinfo><![CDATA[San Francisco, CA
+Sun, Nov 20, 2011 01:05 PM
+]]></eventinfo>
+	<buylink><![CDATA[http://www.ticketmaster.com/event/1C0046A6D3C67EF9?artistid=806015&majorcatid=10004&minorcatid=8]]></buylink>
+	<date><![CDATA[2011-11-20]]></date>
+	<time><![CDATA[01:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>37</id>
+	<userid>123</userid>
+	<eventname><![CDATA[vs New York Giants]]></eventname>
+	<imageurl><![CDATA[http://www.ticketmaster.com/event/1C0046A6D3C27EF8?artistid=806015&majorcatid=10004&minorcatid=8]]></imageurl>
+	<datetime><![CDATA[2011-11-1301:00:00]]></datetime>
+	<location><![CDATA[Candelstick]]></location>
+	<zipcode><![CDATA[85255]]></zipcode>
+	<eventinfo><![CDATA[San Francisco, CA
+Sun, Nov 13, 2011 01:15 PM]]></eventinfo>
+	<buylink><![CDATA[http://www.ticketmaster.com/event/1C0046A6D3B77EF1?artistid=806015&majorcatid=10004&minorcatid=8]]></buylink>
+	<date><![CDATA[2011-11-13]]></date>
+	<time><![CDATA[01:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+</events>

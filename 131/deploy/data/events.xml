@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><events><item>
+	<id>91</id>
+	<userid>131</userid>
+	<eventname><![CDATA[Florence and the Machine]]></eventname>
+	<imageurl><![CDATA[http://www.florenceandthemachine.net]]></imageurl>
+	<datetime><![CDATA[2012-02-2900:00:00]]></datetime>
+	<location><![CDATA[NYC]]></location>
+	<zipcode><![CDATA[10017]]></zipcode>
+	<eventinfo><![CDATA[NYC Return Path]]></eventinfo>
+	<buylink><![CDATA[http://www.florenceandthemachine.net]]></buylink>
+	<date><![CDATA[2012-02-29]]></date>
+	<time><![CDATA[00:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>90</id>
+	<userid>131</userid>
+	<eventname><![CDATA[Florence and the Machine]]></eventname>
+	<imageurl><![CDATA[http://www.florenceandthemachine.net]]></imageurl>
+	<datetime><![CDATA[2012-01-3123:00:00]]></datetime>
+	<location><![CDATA[New York]]></location>
+	<zipcode><![CDATA[10017]]></zipcode>
+	<eventinfo><![CDATA[Return to NYC]]></eventinfo>
+	<buylink><![CDATA[http://www.florenceandthemachine.net]]></buylink>
+	<date><![CDATA[2012-01-31]]></date>
+	<time><![CDATA[23:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>89</id>
+	<userid>131</userid>
+	<eventname><![CDATA[Florence and the Machine]]></eventname>
+	<imageurl><![CDATA[http://www.florenceandthemachine.net]]></imageurl>
+	<datetime><![CDATA[2012-02-1017:00:00]]></datetime>
+	<location><![CDATA[Beverly Hills]]></location>
+	<zipcode><![CDATA[90210]]></zipcode>
+	<eventinfo><![CDATA[Return to LA]]></eventinfo>
+	<buylink><![CDATA[http://www.florenceandthemachine.net]]></buylink>
+	<date><![CDATA[2012-02-10]]></date>
+	<time><![CDATA[17:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+<item>
+	<id>88</id>
+	<userid>131</userid>
+	<eventname><![CDATA[Florence and the Machine]]></eventname>
+	<imageurl><![CDATA[http://www.florenceandthemachine.net]]></imageurl>
+	<datetime><![CDATA[2012-01-2616:00:00]]></datetime>
+	<location><![CDATA[Scottsdale, AZ ]]></location>
+	<zipcode><![CDATA[85255]]></zipcode>
+	<eventinfo><![CDATA[OYA Festival]]></eventinfo>
+	<buylink><![CDATA[http://www.florenceandthemachine.net]]></buylink>
+	<date><![CDATA[2012-01-26]]></date>
+	<time><![CDATA[16:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+</events>

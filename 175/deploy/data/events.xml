@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><events><item>
+	<id>114</id>
+	<userid>175</userid>
+	<eventname><![CDATA[2013 Capital One Standings]]></eventname>
+	<imageurl><![CDATA[http://www.capitalonecup.com/standings]]></imageurl>
+	<datetime><![CDATA[2012-06-01 00:00:00]]></datetime>
+	<location><![CDATA[Captiol Bowl]]></location>
+	<zipcode><![CDATA[90012]]></zipcode>
+	<lat></lat>
+	<long></long>
+	<eventinfo><![CDATA[These are the capital one standings
+1. Uof M
+2. USC]]></eventinfo>
+	<buylink><![CDATA[http://www.capitalonecup.com/standings]]></buylink>
+	<date><![CDATA[2012-06-01]]></date>
+	<time><![CDATA[00:00:00]]></time>
+	<country><![CDATA[AF]]></country>
+</item>
+</events>
