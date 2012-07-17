@@ -1,68 +1,13 @@
 <?xml version="1.0"  ?><dataset><item>
-	<event_id>11652633</event_id>
-	<title>Creamfields Festival Sydney 2012</title>
-	<url><![CDATA[http://www.songkick.com/festivals/346218/id/11652633-creamfields-festival-sydney-2012?utm_source=6983&utm_medium=partner]]></url>
-	<date>2012-04-29</date>
-	<time></time>
-	<location><![CDATA[Sydney, NSW, Australia]]></location>
-	<longitude>151.217</longitude>
-	<latitude>-33.8833</latitude>
-	<title>Unknown venue</title>
-</item>
-<item>
-	<event_id>11652638</event_id>
-	<title>David Guetta at Vector Arena (May 3, 2012)</title>
-	<url><![CDATA[http://www.songkick.com/concerts/11652638-david-guetta-at-vector-arena?utm_source=6983&utm_medium=partner]]></url>
-	<date>2012-05-03</date>
-	<time></time>
-	<location><![CDATA[Auckland, New Zealand]]></location>
-	<longitude>174.7739218</longitude>
-	<latitude>-36.8470228</latitude>
-	<title>Vector Arena</title>
-</item>
-<item>
-	<event_id>11652653</event_id>
-	<title>David Guetta at AIS Arena (May 4, 2012)</title>
-	<url><![CDATA[http://www.songkick.com/concerts/11652653-david-guetta-at-ais-arena?utm_source=6983&utm_medium=partner]]></url>
-	<date>2012-05-04</date>
-	<time></time>
-	<location><![CDATA[Belconnen, ACT, Australia]]></location>
-	<longitude>149.1020186</longitude>
-	<latitude>-35.2452793</latitude>
-	<title>AIS Arena</title>
-</item>
-<item>
-	<event_id>11652678</event_id>
-	<title>Creamfields Festival Perth 2012</title>
-	<url><![CDATA[http://www.songkick.com/festivals/346223/id/11652678-creamfields-festival-perth-2012?utm_source=6983&utm_medium=partner]]></url>
-	<date>2012-05-05</date>
-	<time></time>
-	<location><![CDATA[Perth, WA, Australia]]></location>
-	<longitude>115.833</longitude>
-	<latitude>-31.9333</latitude>
-	<title>Unknown venue</title>
-</item>
-<item>
-	<event_id>11652698</event_id>
-	<title>Creamfields Festival Gold Coast 2012</title>
-	<url><![CDATA[http://www.songkick.com/festivals/346228/id/11652698-creamfields-festival-gold-coast-2012?utm_source=6983&utm_medium=partner]]></url>
-	<date>2012-05-06</date>
-	<time></time>
-	<location><![CDATA[Gold Coast, QLD, Australia]]></location>
-	<longitude>153.433</longitude>
-	<latitude>-28.0</latitude>
-	<title>Unknown venue</title>
-</item>
-<item>
 	<event_id>12207693</event_id>
-	<title>Sommertagtraum By David Guetta with David Guetta, Taio Cruz, Flo Rida, and 3 more… at Festplatz in Der Friedrichsau (May 17, 2012)</title>
-	<url><![CDATA[http://www.songkick.com/concerts/12207693-sommertagtraum-by-david-guetta-at-festplatz-in-der-friedrichsau?utm_source=6983&utm_medium=partner]]></url>
+	<title>Sommertagtraum By David Guetta with David Guetta, Taio Cruz, Flo Rida, and 3 more… at Friedrichsau Festplatz (May 17, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12207693-sommertagtraum-by-david-guetta-at-friedrichsau-festplatz?utm_source=6983&utm_medium=partner]]></url>
 	<date>2012-05-17</date>
 	<time>11:00 AM GMT+01</time>
 	<location><![CDATA[Ulm, Germany]]></location>
 	<longitude>10.0</longitude>
 	<latitude>48.4</latitude>
-	<title>Festplatz in Der Friedrichsau</title>
+	<title>Friedrichsau Festplatz</title>
 </item>
 <item>
 	<event_id>12549523</event_id>
@@ -87,6 +32,28 @@
 	<title>O2 World</title>
 </item>
 <item>
+	<event_id>12765913</event_id>
+	<title>David Guetta at Gotha Club (May 22, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12765913-david-guetta-at-gotha-club?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-05-22</date>
+	<time></time>
+	<location><![CDATA[Cannes, France]]></location>
+	<longitude>7.01667</longitude>
+	<latitude>43.55</latitude>
+	<title>Gotha Club</title>
+</item>
+<item>
+	<event_id>12074158</event_id>
+	<title>Diplo, David Guetta, and Paul Oakenfold with Goldfish at World Heritage Site at Dalt Vila (May 24, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12074158-diplo-at-world-heritage-site-at-dalt-vila?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-05-24</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude></longitude>
+	<latitude></latitude>
+	<title>World Heritage Site at Dalt Vila</title>
+</item>
+<item>
 	<event_id>12549528</event_id>
 	<title>David Guetta at Pacha (May 24, 2012)</title>
 	<url><![CDATA[http://www.songkick.com/concerts/12549528-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
@@ -99,7 +66,7 @@
 </item>
 <item>
 	<event_id>12207318</event_id>
-	<title>David Guetta at Congress Theater (May 25, 2012)</title>
+	<title>David Guetta with DJ David Guetta at Congress Theater (May 25, 2012)</title>
 	<url><![CDATA[http://www.songkick.com/concerts/12207318-david-guetta-at-congress-theater?utm_source=6983&utm_medium=partner]]></url>
 	<date>2012-05-25</date>
 	<time>07:30 PM GMT-06</time>
@@ -107,6 +74,28 @@
 	<longitude>-87.6924257</longitude>
 	<latitude>41.919978</latitude>
 	<title>Congress Theater</title>
+</item>
+<item>
+	<event_id>12197508</event_id>
+	<title>I Love This City Music Festival Saturday Only 2012</title>
+	<url><![CDATA[http://www.songkick.com/festivals/380478/id/12197508-i-love-this-city--san-francisco-moved-to-shoreline-amphitheatre?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-05-26</date>
+	<time>01:30 PM GMT-08</time>
+	<location><![CDATA[San Francisco, CA, US]]></location>
+	<longitude>-122.3883198</longitude>
+	<latitude>37.7748079</latitude>
+	<title>The Lot at At&t Park</title>
+</item>
+<item>
+	<event_id>12765983</event_id>
+	<title>David Guetta at Wynn Las Vegas - Encore Beach Club (May 27, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12765983-david-guetta-at-wynn-las-vegas-encore-beach-club?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-05-27</date>
+	<time></time>
+	<location><![CDATA[Las Vegas, NV, US]]></location>
+	<longitude>-115.165129</longitude>
+	<latitude>36.130189</latitude>
+	<title>Wynn Las Vegas - Encore Beach Club</title>
 </item>
 <item>
 	<event_id>12418078</event_id>
@@ -153,26 +142,48 @@
 	<title>Alexandra Palace</title>
 </item>
 <item>
+	<event_id>12765988</event_id>
+	<title>David Guetta at Pacha (June 7, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12765988-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-06-07</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
+</item>
+<item>
 	<event_id>10621523</event_id>
 	<title>Electric Daisy Carnival 2012</title>
 	<url><![CDATA[http://www.songkick.com/festivals/10816/id/10621523-electric-daisy-carnival-2012?utm_source=6983&utm_medium=partner]]></url>
 	<date>2012-06-08</date>
 	<time>08:00 AM GMT-08</time>
 	<location><![CDATA[Las Vegas, NV, US]]></location>
-	<longitude>-115.222</longitude>
-	<latitude>36.1942</latitude>
-	<title>Unknown venue</title>
+	<longitude>-115.0115494</longitude>
+	<latitude>36.2698542</latitude>
+	<title>Las Vegas Motor Speedway</title>
 </item>
 <item>
 	<event_id>11358063</event_id>
 	<title>Festival Garorock 2012</title>
-	<url><![CDATA[http://www.songkick.com/festivals/38846/id/11358063-garorock-2012?utm_source=6983&utm_medium=partner]]></url>
+	<url><![CDATA[http://www.songkick.com/festivals/38846/id/11358063-festival-garorock-2012?utm_source=6983&utm_medium=partner]]></url>
 	<date>2012-06-08</date>
 	<time>04:30 PM GMT+01</time>
 	<location><![CDATA[Marmande, France]]></location>
 	<longitude></longitude>
 	<latitude></latitude>
 	<title>Unknown venue</title>
+</item>
+<item>
+	<event_id>12765998</event_id>
+	<title>David Guetta at Pacha (June 14, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12765998-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-06-14</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
 </item>
 <item>
 	<event_id>11670148</event_id>
@@ -197,6 +208,17 @@
 	<title>Stockholms Stadion</title>
 </item>
 <item>
+	<event_id>12766003</event_id>
+	<title>David Guetta at Pacha (June 21, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766003-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-06-21</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
+</item>
+<item>
 	<event_id>9234656</event_id>
 	<title>Radio 1's Hackney Weekend 2012</title>
 	<url><![CDATA[http://www.songkick.com/festivals/228571/id/9234656-radio-1s-hackney-weekend-2012?utm_source=6983&utm_medium=partner]]></url>
@@ -208,6 +230,17 @@
 	<title>Hackney Marshes</title>
 </item>
 <item>
+	<event_id>12766013</event_id>
+	<title>David Guetta at Pacha (June 28, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766013-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-06-28</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
+</item>
+<item>
 	<event_id>9119031</event_id>
 	<title>Rock In Rio Madrid 2012</title>
 	<url><![CDATA[http://www.songkick.com/festivals/53956/id/9119031-rock-in-rio-madrid-2012?utm_source=6983&utm_medium=partner]]></url>
@@ -217,6 +250,50 @@
 	<longitude>-3.68333</longitude>
 	<latitude>40.4</latitude>
 	<title>Ciudad Del Rock Arganda Del Rey</title>
+</item>
+<item>
+	<event_id>12333023</event_id>
+	<title>Motion! Open Air Festival 2012</title>
+	<url><![CDATA[http://www.songkick.com/festivals/389618/id/12333023-motion-open-air-festival-2012?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-06-29</date>
+	<time></time>
+	<location><![CDATA[Gunzgen, Switzerland]]></location>
+	<longitude></longitude>
+	<latitude></latitude>
+	<title>Unknown venue</title>
+</item>
+<item>
+	<event_id>12766018</event_id>
+	<title>David Guetta at Cocoricò (June 29, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766018-david-guetta-at-cocorico?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-06-29</date>
+	<time></time>
+	<location><![CDATA[Riccione, Italy]]></location>
+	<longitude>12.6586323</longitude>
+	<latitude>43.988528</latitude>
+	<title>Cocoricò</title>
+</item>
+<item>
+	<event_id>12197438</event_id>
+	<title>Ibiza 123 Rocktronic Festival 2012</title>
+	<url><![CDATA[http://www.songkick.com/festivals/379693/id/12197438-ibiza-123-rocktronic-festival-2012?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-07-01</date>
+	<time>12:00 PM GMT+01</time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude></longitude>
+	<latitude></latitude>
+	<title>Costa De San Antonio</title>
+</item>
+<item>
+	<event_id>12766083</event_id>
+	<title>David Guetta at Pacha (July 5, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766083-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-07-05</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
 </item>
 <item>
 	<event_id>9732268</event_id>
@@ -252,15 +329,37 @@
 	<title>Recinto de Conciertos</title>
 </item>
 <item>
+	<event_id>12766098</event_id>
+	<title>David Guetta at Pacha (July 12, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766098-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-07-12</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
+</item>
+<item>
 	<event_id>12412383</event_id>
 	<title>Paléo Festival Nyon 2012</title>
 	<url><![CDATA[http://www.songkick.com/festivals/131601/id/12412383-palo-festival-nyon-2012?utm_source=6983&utm_medium=partner]]></url>
-	<date>2012-07-18</date>
+	<date>2012-07-17</date>
 	<time>08:00 PM GMT+01</time>
 	<location><![CDATA[Nyon, Switzerland]]></location>
 	<longitude></longitude>
 	<latitude></latitude>
 	<title>Unknown venue</title>
+</item>
+<item>
+	<event_id>12766103</event_id>
+	<title>David Guetta at Pacha (July 19, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766103-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-07-19</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
 </item>
 <item>
 	<event_id>11327418</event_id>
@@ -285,8 +384,41 @@
 	<title>Königsplatz</title>
 </item>
 <item>
+	<event_id>12766113</event_id>
+	<title>David Guetta at Pacha (July 26, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766113-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-07-26</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
+</item>
+<item>
+	<event_id>12766118</event_id>
+	<title>David Guetta at Pacha (August 2, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766118-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-08-02</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
+</item>
+<item>
+	<event_id>12766138</event_id>
+	<title>David Guetta at Pacha (August 9, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766138-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-08-09</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
+</item>
+<item>
 	<event_id>12139833</event_id>
-	<title>David Guetta with Miossec, Merzhin, and Shaka Ponk at Esplanade De La Petite Palud (August 10, 2012)</title>
+	<title>David Guetta with Miossec, Merzhin, Shaka Ponk, and 7 more… at Esplanade De La Petite Palud (August 10, 2012)</title>
 	<url><![CDATA[http://www.songkick.com/concerts/12139833-david-guetta-at-esplanade-de-la-petite-palud?utm_source=6983&utm_medium=partner]]></url>
 	<date>2012-08-10</date>
 	<time>03:00 PM GMT+01</time>
@@ -316,6 +448,17 @@
 	<longitude>7.3590577</longitude>
 	<latitude>48.1008859</latitude>
 	<title>Théâtre de Plein Air, Parc des Expositions</title>
+</item>
+<item>
+	<event_id>12766163</event_id>
+	<title>David Guetta at Pacha (August 16, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766163-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-08-16</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
 </item>
 <item>
 	<event_id>12126838</event_id>
@@ -351,6 +494,17 @@
 	<title>Luukki Park</title>
 </item>
 <item>
+	<event_id>12766223</event_id>
+	<title>David Guetta at Pacha (August 23, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12766223-david-guetta-at-pacha?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-08-23</date>
+	<time></time>
+	<location><![CDATA[Ibiza, Spain]]></location>
+	<longitude>1.439602</longitude>
+	<latitude>38.917778</latitude>
+	<title>Pacha</title>
+</item>
+<item>
 	<event_id>12090308</event_id>
 	<title>David Guetta at Daresbury Estate (August 24, 2012)</title>
 	<url><![CDATA[http://www.songkick.com/concerts/12090308-david-guetta-at-daresbury-estate?utm_source=6983&utm_medium=partner]]></url>
@@ -373,48 +527,48 @@
 	<title>Daresbury Estate</title>
 </item>
 <item>
+	<event_id>12620903</event_id>
+	<title>Creamfields 2012 with 3 Day Camping, David Guetta, and 2 Day Camping at Daresbury Estate (August 25, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12620903-creamfields-2012-at-daresbury-estate?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-08-25</date>
+	<time>10:00 AM GMT+00</time>
+	<location><![CDATA[Halton, UK]]></location>
+	<longitude></longitude>
+	<latitude></latitude>
+	<title>Daresbury Estate</title>
+</item>
+<item>
 	<event_id>11979588</event_id>
 	<title>David Guetta at Custom House Square Belfast (August 26, 2012)</title>
 	<url><![CDATA[http://www.songkick.com/concerts/11979588-david-guetta-at-custom-house-square-belfast?utm_source=6983&utm_medium=partner]]></url>
 	<date>2012-08-26</date>
-	<time>06:00 PM GMT+00</time>
+	<time>07:30 PM GMT+00</time>
 	<location><![CDATA[Belfast, UK]]></location>
-	<longitude>-5.9236685</longitude>
-	<latitude>54.6015412</latitude>
+	<longitude>-5.928</longitude>
+	<latitude>54.599</latitude>
 	<title>Custom House Square Belfast</title>
 </item>
 <item>
-	<event_id>10634333</event_id>
-	<title>Beyond Wonderland Seattle 2014</title>
-	<url><![CDATA[http://www.songkick.com/festivals/213241/id/10634333-beyond-wonderland-seattle-2014?utm_source=6983&utm_medium=partner]]></url>
-	<date>2014-06-14</date>
-	<time></time>
-	<location><![CDATA[Seattle, WA, US]]></location>
-	<longitude>-122.333</longitude>
-	<latitude>47.6264</latitude>
-	<title>Unknown venue</title>
-</item>
-<item>
-	<event_id>11635718</event_id>
-	<title>Stage 88 with David Guetta Ft. Timomatic, Jared De Veer, and RAWsON at Stage 88 (May 4, 2012)</title>
-	<url><![CDATA[http://www.songkick.com/concerts/11635718-stage-88-at-stage-88?utm_source=6983&utm_medium=partner]]></url>
-	<date>2012-05-04</date>
-	<time></time>
-	<location><![CDATA[Canberra, ACT, Australia]]></location>
-	<longitude>149.217</longitude>
-	<latitude>-35.2833</latitude>
-	<title>Stage 88</title>
-</item>
-<item>
 	<event_id>12207693</event_id>
-	<title>Sommertagtraum By David Guetta with David Guetta, Taio Cruz, Flo Rida, and 3 more… at Festplatz in Der Friedrichsau (May 17, 2012)</title>
-	<url><![CDATA[http://www.songkick.com/concerts/12207693-sommertagtraum-by-david-guetta-at-festplatz-in-der-friedrichsau?utm_source=6983&utm_medium=partner]]></url>
+	<title>Sommertagtraum By David Guetta with David Guetta, Taio Cruz, Flo Rida, and 3 more… at Friedrichsau Festplatz (May 17, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12207693-sommertagtraum-by-david-guetta-at-friedrichsau-festplatz?utm_source=6983&utm_medium=partner]]></url>
 	<date>2012-05-17</date>
 	<time>11:00 AM GMT+01</time>
 	<location><![CDATA[Ulm, Germany]]></location>
 	<longitude>10.0</longitude>
 	<latitude>48.4</latitude>
-	<title>Festplatz in Der Friedrichsau</title>
+	<title>Friedrichsau Festplatz</title>
+</item>
+<item>
+	<event_id>12207318</event_id>
+	<title>David Guetta with DJ David Guetta at Congress Theater (May 25, 2012)</title>
+	<url><![CDATA[http://www.songkick.com/concerts/12207318-david-guetta-at-congress-theater?utm_source=6983&utm_medium=partner]]></url>
+	<date>2012-05-25</date>
+	<time>07:30 PM GMT-06</time>
+	<location><![CDATA[Chicago, IL, US]]></location>
+	<longitude>-87.6924257</longitude>
+	<latitude>41.919978</latitude>
+	<title>Congress Theater</title>
 </item>
 <item>
 	<event_id>12073538</event_id>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><events><item>
+	<id>123</id>
+	<userid>188</userid>
+	<eventname><![CDATA[Avengers Assemble at Disney Store]]></eventname>
+	<imageurl><![CDATA[http://blog.disneystore.com/blog/2012/05/avengers-assemble-at-disney-store.html]]></imageurl>
+	<datetime><![CDATA[2012-09-18 00:00:00]]></datetime>
+	<location><![CDATA[Disney Store]]></location>
+	<zipcode><![CDATA[90012]]></zipcode>
+	<lat></lat>
+	<long></long>
+	<eventinfo><![CDATA[Should be a blast!]]></eventinfo>
+	<buylink><![CDATA[http://www.fandango.com/marvelstheavengers_30154/movieoverview]]></buylink>
+	<date><![CDATA[2012-09-18]]></date>
+	<time><![CDATA[00:00:00]]></time>
+	<country><![CDATA[US]]></country>
+</item>
+</events>

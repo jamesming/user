@@ -1,29 +1,38 @@
 <?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
 	<name>David Guetta</name>
 	<gid>UA-30097720-1</gid>
-	<base_url>http://www.google.com</base_url>
+	<base_url>http://www.davidguetta.com</base_url>
+	<base_url2></base_url2>
+	<tab></tab>
+	<target></target>
+	<custom_html><![CDATA[]]></custom_html>
 	<abouttitle>David Guetta</abouttitle>
-	<about><![CDATA[Pierre David Guetta (born 7 November 1967), known professionally as David Guetta (French pronunciation: [daˌviːd gɛˈta]), is a French house music producer and DJ.[1] Originally a DJ at nightclubs during the 1980s and 1990s, he co-founded Gum Productions and released his first album, Just a Little More Love, in 2002. Later, he released Guetta Blaster (2004) and Pop Life (2007). His 2009 album One Love included the hit singles "When Love Takes Over" (featuring Kelly Rowland), "Gettin' 
+	<about><![CDATA[The Pierre David Guetta (born 7 November 1967), known professionally as David Guetta (French pronunciation: [daˌviːd gɛˈta]), is a French house music producer and DJ.[1] Originally a DJ at nightclubs during the 1980s and 1990s, he co-founded Gum Productions and released his first album, Just a Little More Love, in 2002. Later, he released Guetta Blaster (2004) and Pop Life (2007). His 2009 album One Love included the hit singles "When Love Takes Over" (featuring Kelly Rowland), "Gettin' 
 Over You" (featuring Chris Willis, Fergie & LMFAO) and "Sexy Bitch" (featuring Akon), the last becoming a top five hit in the US and all three reaching #1 in the UK, as well as another internationally known single called "Memories" featuring Kid Cudi which became a top five hit in many countries. Guetta has sold over three million albums and 15 million singles worldwide.[2] He is currently one of the most sought-after music producers.[3]
 
 At age 17, Guetta began DJing at the Broad Club in Paris.[4] He first played popular songs, and he discovered house music when he heard a Farley master Funk track on French radio in 1987. The next year, he began hosting his own club nights.[5] In 1990, he released "Nation Rap", a hip-hop collaboration with French rapper Sidney Duteil.[6]
 In the mid 1990s Guetta played in clubs including Le Centrale, the Rex, Le Boy, and Folies Pigalle.[4][7] Released in 1994[6] Guetta's second single, a collaboration with American house vocalist Robert Owens titled "Up & Away", was a minor club hit.[5] In 1994, David Guetta became the manager of Le Palace nightclub and he continued to organise parties there and in other clubs, such as the "Scream" parties in Les Bains Douches.]]></about>
+	<hashtag></hashtag>
+	<twitter_sharetext></twitter_sharetext>
 	<logourl>logo.png</logourl>
 	<avatarurl>avatar.png</avatarurl>
 	<homescreenurl>homescreen.png</homescreenurl>
+	<customurl>custom.png</customurl>
+	<tab_iconurl>tab_icon.png</tab_iconurl>
 	<twitter>davidguetta</twitter>
 	<songkickID>149066</songkickID>
 	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
 	<facebook>http://es-es.facebook.com/DavidGuetta</facebook>
 	<facebookID>7619396355</facebookID>
 	<channelid>9977513</channelid>
+	<ustreamid>AJVernet37</ustreamid>
 	<elementsequence>
-		<elem>theaters</elem>		
-		<elem>photos</elem>		
-		<elem>videos</elem>		
 		<elem>merch</elem>
+		<elem>theaters</elem>
 		<elem>music</elem>
+		<elem>photos</elem>
 		<elem>connect</elem>
+		<elem>videos</elem>
 		<elem>events</elem>
 		<elem>bio</elem>
 		<elem>news</elem>

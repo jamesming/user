@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>The Dark Knight Rises</name>
+	<gid></gid>
+	<base_url>http://www.thedarkknightrises.com/</base_url>
+	<base_url2>http://www.thedarkknightrises.com/</base_url2>
+	<tab></tab>
+	<target></target>
+	<custom_html><![CDATA[]]></custom_html>
+	<abouttitle>The Dark Knight Rises</abouttitle>
+	<about><![CDATA[Eight years after Batman took the fall for Two Face's crimes, a new terrorist leader, Bane, overwhelms Gotham's finest, and the Dark Knight resurfaces to protect a city that has branded him an enemy]]></about>
+	<hashtag>#thedarkknight</hashtag>
+	<twitter_sharetext>shre content</twitter_sharetext>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<customurl>custom.png</customurl>
+	<tab_iconurl>tab_icon.png</tab_iconurl>
+	<twitter>@DarKnightRises</twitter>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>www.facebook.com/thedarkknightrises</facebook>
+	<facebookID>225034700870481</facebookID>
+	<channelid></channelid>
+	<ustreamid></ustreamid>
+	<elementsequence>
+		<elem>bio</elem>
+		<elem>connect</elem>
+		<elem>videos</elem>
+		<elem>photos</elem>
+		<elem>events</elem>
+		<elem>merch</elem>
+		<elem>music</elem>
+		<elem>theaters</elem>
+	</elementsequence>
+	<musiclist>
+		<musicid>153</musicid>
+	</musiclist>
+	<albumlist>
+		<album></album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>

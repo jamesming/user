@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?><dataset><global>
+	<name>Faux avengers</name>
+	<gid></gid>
+	<base_url>http://marvel.com/avengers_movie/</base_url>
+	<base_url2>http://marvel.com/avengers_movie/</base_url2>
+	<tab></tab>
+	<target></target>
+	<custom_html><![CDATA[]]></custom_html>
+	<abouttitle>AVENGERS ASSEMBLE</abouttitle>
+	<about><![CDATA[Marvel's The Avengers[4] (classified under the name Marvel Avengers Assemble in the UK and Ireland[1][5]) is a 2012 American superhero film produced by Marvel Studios and distributed by Walt Disney Pictures1, based on the Marvel Comics superhero team of the same name. It is the sixth installment in the Marvel Cinematic Universe. The film is scripted and directed by Joss Whedon and features an ensemble cast that includes Robert Downey, Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård and Samuel L. Jackson. In The Avengers, Nick Fury, director of the peacekeeping organization S.H.I.E.L.D., recruits Iron Man, Captain America, the Hulk and Thor to form a team that must stop Thor's adoptive brother Loki from enslaving the human race.]]></about>
+	<hashtag>#Avengers</hashtag>
+	<twitter_sharetext>this is share content</twitter_sharetext>
+	<logourl>logo.png</logourl>
+	<avatarurl>avatar.png</avatarurl>
+	<homescreenurl>homescreen.png</homescreenurl>
+	<customurl>custom.png</customurl>
+	<tab_iconurl>tab_icon.png</tab_iconurl>
+	<twitter>@Avengers</twitter>
+	<songkickAPI>gFmGoc5AHIqQunDF</songkickAPI>
+	<facebook>www.facebook.com/avengers</facebook>
+	<facebookID>126757470715601</facebookID>
+	<channelid></channelid>
+	<ustreamid></ustreamid>
+	<elementsequence>
+		<elem>bio</elem>
+		<elem>connect</elem>
+		<elem>videos</elem>
+		<elem>photos</elem>
+		<elem>merch</elem>
+		<elem>events</elem>
+		<elem>theaters</elem>
+		<elem>music</elem>
+	</elementsequence>
+	<musiclist>
+		<musicid>154</musicid>
+	</musiclist>
+	<albumlist>
+		<album></album>
+	</albumlist>
+	<vidcategorylist>
+		<vidcategory>youtube</vidcategory>
+	</vidcategorylist>
+</global>
+</dataset>
